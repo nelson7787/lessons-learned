@@ -7,5 +7,6 @@ Holds himself/herself accountable (i.e, able to admit where he/she makes mistake
 Documents progress periodically (i.e., provides you with weekly updates with new versions of website/app to show progress),
 A helpful link (which is a good summary of the above): 
 http://www.entrepreneur.com/article/240644
-[Good Programmer](http://c.tadst.com/gfx/600x400/international-programmer-day.jpg?1)
+[Good Programmer]http://c.tadst.com/gfx/600x400/international-programmer-day.jpg?1
+
 

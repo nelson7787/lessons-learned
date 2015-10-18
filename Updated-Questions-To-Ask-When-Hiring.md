@@ -1,10 +1,12 @@
-**Questions to ask when hiring a CTO should include**:
+#**Questions to Ask when Hiring a CTO**
 
 ![Image from TC Article of Interview](https://tctechcrunch2011.files.wordpress.com/2013/06/seventh-seal.jpg?w=400)
 
 *What an interview might seem like! Source: TechCrunch*
 
-**General Background**
+It's always difficult to interview somebody for a job that you don't know much about. Thankfully, with the help of my team, I've put together a list of questions that should help when interviewing potential CTO candidates!
+
+####**General Background**
 
 - Tell me about yourself and your background
 - Tell me about a time when you had to persevere through a tough challenge; what did you do? What ultimately happened? How did you fix the issues?
@@ -13,7 +15,7 @@
 - Can you explain what you do to a five year old (this will see if they can communicate with non-technical people)
 - Teach me something.
 
-**Expectations and Leadership**
+####**Expectations and Leadership**
 
 - What is your ideal company culture? How will you build out your team and keep that culture? What characteristics will you look for in developers? How will you ensure that they are good fits for the organization?
 - What are your current time commitments? What hours do you see yourself working? What hours do you see your team working?
@@ -28,7 +30,7 @@
 - What are your short/medium/long-term goals for this project? What do you see as the deliverables being? 
 - Under what circumstances will you layoff an employee? Give me three instances where you did this and how you dealt with it? 
 
-**Skillsets and Experience**
+####**Skillsets and Experience**
 
 - What open source projects have you contributed to? Are you a member of any tech community?
 - Have you spoken at any tech conferences? Which ones? 

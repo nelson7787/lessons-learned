@@ -1,4 +1,4 @@
-#**Characteristics of a good programmer**
+#**Characteristics of a Good Programmer**
 A good programmer is:
 - Always learning (i.e., attending conferences, knows about the latest books/blogs, active in the community, passionate),
 - Communicates effectively (i.e., is able to explain efficiently to non developers some of the processes, able to communicate calmly when something is wrong before it starts to get out of hand, patient),

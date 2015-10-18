@@ -12,4 +12,4 @@ Is organized (i.e., builds a code architecture that can be understood by other p
 Able to come up with reusaable functions/objects (i.e., designs systems that span multiple technologies/platforms)
 A helpful link (which is a good summary of the above): 
 http://www.entrepreneur.com/article/240644
-[Good Programmer](http://c.tadst.com/gfx/600x400/international-programmer-day.jpg?1)
+![Good Programmer](http://c.tadst.com/gfx/600x400/international-programmer-day.jpg?1)

@@ -8,11 +8,11 @@ It's always difficult to interview somebody for a job that you don't know much a
 
 ####**General Background**
 
-- Tell me about yourself and your background
+- Tell me about yourself and your background.
 - Tell me about a time when you had to persevere through a tough challenge; what did you do? What ultimately happened? How did you fix the issues?
 - What are your three favorite books? One fiction, one non-fiction and the third of your choice.
 - Do you have a blog? What do you write about?
-- Can you explain what you do to a five year old (this will see if they can communicate with non-technical people)
+- Can you explain what you do to a five year old (this will see if they can communicate with non-technical people)?
 - Teach me something.
 
 ####**Expectations and Leadership**
@@ -26,10 +26,9 @@ It's always difficult to interview somebody for a job that you don't know much a
 - How would you make the product better? How would you make the user experience better? Walk me through specifics and a timeline.
 - Have you had to raise funds in the past? 
 - What are your compensation expectations? 
-- Tell me about a product that you either built or managed the build of. What did you do at the start of every week? What did you do on the first day? On the last day? Specifically.
+- Tell me about a product that you either built or managed the build of. What did you do at the start of every week? What did you do on the first day? On the last day? Give me specifics, please.
 - What are your short/medium/long-term goals for this project? What do you see as the deliverables being? 
 - Under what circumstances will you layoff an employee? Give me three instances where you did this and how you dealt with it? 
-
 ####**Skillsets and Experience**
 
 - What open source projects have you contributed to? Are you a member of any tech community?
@@ -40,3 +39,7 @@ It's always difficult to interview somebody for a job that you don't know much a
 - What would the last CEO you worked with say about you and your work ethic? Who are they? 
 
 A good holistic overview can be found on [this TechCrunch article](http://techcrunch.com/2013/06/22/the-technical-interview-is-dead/)
+
+Good luck interviewing!
+
+*Sources: TechCrunch, The Pragmatic Programmer, Class Discussions*

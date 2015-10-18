@@ -9,6 +9,7 @@ Is resilient (i.e., finish what they start),
 Is able to keep the big picture in mind (i.e., understands how different work streams fit with the larger context)
 Designs with simplicity and scale (i.e., creativity),
 Is organized (i.e., builds a code architecture that can be understood by other programmers, good logic).
+Able to come up with reusaable functions/objects (i.e., designs systems that span multiple technologies/platforms)
 A helpful link (which is a good summary of the above): 
 http://www.entrepreneur.com/article/240644
 [Good Programmer](http://c.tadst.com/gfx/600x400/international-programmer-day.jpg?1)

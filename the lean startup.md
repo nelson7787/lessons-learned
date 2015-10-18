@@ -29,4 +29,4 @@ You basically have an idea that relies on many assumptions that you build:
 *You might need to pivot many times before finding what exact solution to offer to solve your clients' problems but this method reaaly works
 *Once you interviewed a good sample of your potential clients and that they agree on your assumptions, your start launching the product, even with the MVP only if necessary*
 
-[to learn more](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything)
+To learn more, [click this link](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything)

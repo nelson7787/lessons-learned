@@ -1,12 +1,13 @@
 Connecting from your laptop to a website you'll often connect to:
-
-* WiFi/ethernet Cable - 
-* Wireless/regular router 
-* Cable modem 
-* Optic Fibre cable
-* ISP (Internet Service Provider) 
-* Satellite
-* Interconnects to other ISPs 
-* Domain Name Sever 
-* IP address -
-* Website - 
+(also could be desktop or mobile)
+* WiFi/ethernet Cable - allows your laptop/desktop/mobile to connect to the 
+    * Wireless/regular router hich receives signal and connects to/is integrated with a
+        * Cable modem which connects to
+          * Optic Fibre cable which takes the connection around the city to the
+              * ISP (Internet Service Provider) 
+                * Satellite
+                    * Interconnects to other ISPs 
+                        * Domain Name Sever which transforms normal language into
+                          * IP address - which then leads to 
+                                * Website - 
+  

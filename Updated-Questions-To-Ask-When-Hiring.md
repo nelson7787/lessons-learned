@@ -29,6 +29,7 @@ It's always difficult to interview somebody for a job that you don't know much a
 - Tell me about a product that you either built or managed the build of. What did you do at the start of every week? What did you do on the first day? On the last day? Give me specifics, please.
 - What are your short/medium/long-term goals for this project? What do you see as the deliverables being? 
 - Under what circumstances will you layoff an employee? Give me three instances where you did this and how you dealt with it? 
+
 ####**Skillsets and Experience**
 
 - What open source projects have you contributed to? Are you a member of any tech community?

@@ -25,4 +25,5 @@ Some more App advantages
 -	User can get things done in 1 click sometimes
 
 
-More detailed info: http://www.hswsolutions.com/services/mobile-web-development/mobile-website-vs-apps/
+More detailed info:
+http://www.hswsolutions.com/services/mobile-web-development/mobile-website-vs-apps/
